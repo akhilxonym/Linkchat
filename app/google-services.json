@@ -1,0 +1,54 @@
+{ "project_info": {
+    "project_number": "813604442373",
+    "firebase_url": "https://linkchatnews.firebaseio.com",
+    "project_id": "linkchatnews",
+    "storage_bucket": "linkchatnews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813604442373:android:71069404d6e6b8b5",
+        "android_client_info": {
+          "package_name": "linkchat.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813604442373-9pk9vch577jke0f4vg9c4sj7n16fec8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "linkchat.news",
+            "certificate_hash": "6273790401371a35aa2a40f817c85bdc44afdf58"
+          }
+        },
+        {
+          "client_id": "813604442373-dv6jjr624lisi6cs8jb9ohqvg3hpbet0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYr5tEpKHhzbkRPch5ezQkH0UWM0oPygs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813604442373-dv6jjr624lisi6cs8jb9ohqvg3hpbet0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
